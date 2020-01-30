@@ -1,4 +1,4 @@
-# Backend del Trabajo Final - OPCION A
+# Frontend del Trabajo Final - OPCION A
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
 
