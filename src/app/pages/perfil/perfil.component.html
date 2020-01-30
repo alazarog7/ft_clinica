@@ -1,0 +1,16 @@
+<mat-card class="recuadro">
+    <mat-card-header>
+        <mat-card-title>
+            {{this.usuario}}
+        </mat-card-title>
+
+    </mat-card-header>
+    <hr>
+    <mat-card-content>
+        <mat-list role="list">
+            <mat-list-item role="listitem" *ngFor="let rol of this.roles">{{rol}}</mat-list-item>
+
+        </mat-list>
+
+    </mat-card-content>
+</mat-card>

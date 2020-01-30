@@ -1,0 +1,20 @@
+.example-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.example-container>* {
+    width: 50%;
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+form {
+    margin-left: 30%;
+}
+
+.bloque_linea {
+    display: inline-block;
+}
